@@ -1,0 +1,7 @@
+
+/Project/Objects/*
+/Project/JLinkLog.txt
+/Project/*.uvguix.*
+/Project/*.uvoptx
+/Project/Listings/*
+/SI/*
